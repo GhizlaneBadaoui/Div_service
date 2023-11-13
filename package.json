@@ -1,10 +1,10 @@
 {
-  "name": "sumapp",
+  "name": "divapp",
   "version": "1.0.0",
-  "description": "A simple addition application",
-  "main": "SumService.js",  
+  "description": "A simple division application",
+  "main": "DivService.js",  
   "scripts": {
-    "start": "node SumService.js" 
+    "start": "node DivService.js" 
   },
   "dependencies": {
     "http": "^0.0.1-security"  
