@@ -1,6 +1,6 @@
 var http = require('http');
 
-const PORT = process.env.PORT || 31004;
+const PORT = 80;
 
 console.log("Listening on port : " + PORT);
 http.createServer (function(req, resp) {
